@@ -1,6 +1,6 @@
 /*Home Page*/
 .home-page{
-  background:linear-gradient(90deg, var(--white), transparent 70%), url(../images/Ảnh_1.jpg) no-repeat;
+  background:linear-gradient(90deg, var(--white), transparent 70%), url(./images/Ảnh_1.jpg) no-repeat;
   background-size: 100%;
   background-position: center;
   padding-left: 33px;

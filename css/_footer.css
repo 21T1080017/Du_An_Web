@@ -1,0 +1,44 @@
+/*Footer*/
+.footer{
+    display: block;
+    width: 100%;
+    height:128px;
+    /* bottom: 0px; */
+    padding-top: 20px;
+    background-color: rgba(199, 139, 101, 0.100);
+    /* position: absolute; */
+  }
+  
+  .info {
+    display: flex;
+    padding-left: 33px;
+  }
+  
+  .info .box {
+    width: 290px; /*width: 18.125rem */
+  }
+  
+  .box p {
+    line-height: 1.2;
+    color:var(--black); 
+    
+  }
+  
+  p {
+    display: block;
+    padding: 5px 0;
+  }
+  
+  .credit{
+    text-align: center;
+    margin-left: 33px;
+    margin-top: 20px;
+    padding: 1rem 0;
+    border-top: 2px solid var(--black);
+    font-size: 85%;
+    color:var(--black);
+  }
+  
+  .credit span {
+    color:var(--main-color);
+  }

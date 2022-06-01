@@ -1,4 +1,4 @@
-@import url(./_body.css);
-@import url(./_header.css);
-@import url(./_home-page.css);
-@import url(./_footer.css);
+@import './_body.css';
+@import './_header.css';
+@import './_home-page.css';
+@import './_footer.css';

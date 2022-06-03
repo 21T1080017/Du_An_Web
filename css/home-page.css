@@ -3,11 +3,11 @@
   background:linear-gradient(90deg, var(--white), transparent 70%), url(../images/Ảnh_1.jpg) no-repeat;
   background-position: center;
   background-size: 100%;
-  padding-left: 33px;
 }
 
-.home-page .home{
+.home{
   display: flex;
+  padding-left: 33px;
   min-height: 67.9rem;
 }
 

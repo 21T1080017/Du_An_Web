@@ -7,11 +7,11 @@
   --main-color:rgb(199,139,101) ;
   --box-shadow:0 .5rem 1rem rgba(0,0,0,.1);
   /*box-shadow: x y blur cale color;
-  x: dương đổ bóng bên trái và ngược lại
-  y: dương đổ bóng xuống dưới và ngược lại
-  blur: độ mờ
-  cale: độ rộng của bóng
-  thêm inser nếu đổ bóng bên trong*/
+    x: dương đổ bóng bên trái và ngược lại
+    y: dương đổ bóng xuống dưới và ngược lại
+    blur: độ mờ
+    cale: độ rộng của bóng
+    thêm inser nếu đổ bóng bên trong*/
 }
 
 * {
@@ -44,7 +44,7 @@ html{
 
 body {
   line-height: 1;
-  height: 1139vh;
+  height: 1257.4vh;
   font-size: 16px;
   overflow-y: auto;
   font-family: 'Nunito', sans-serif;

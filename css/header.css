@@ -1,5 +1,5 @@
 /*Header*/
-.header {
+#header {
   top:0;
   left:0;
   right:0;
@@ -9,7 +9,7 @@
   box-shadow: var(--box-shadow);
 }
 
-.header .section{
+.header{
   display: flex;
   padding: 5px 33px;
   position: relative;
@@ -75,7 +75,16 @@
   color: var(--main-color);
 }
 
-.connect-wallet{
+.shopping{
+  color: var(--main-color);
+  font-size: 25px;
+}
+
+.shopping:hover{
+  color: var(--black);
+}
+
+/* .connect-wallet{
   font-size: 16px;
   cursor: pointer;
   color:var(--white);
@@ -87,4 +96,4 @@
 
 .connect:hover{
   background-color: var(--black);
-}
+} */

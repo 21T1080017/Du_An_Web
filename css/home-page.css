@@ -1,6 +1,6 @@
 /*Home Page*/
 .home-page{
-  background:linear-gradient(90deg, var(--white), transparent 70%), url(../images/Ảnh_1.jpg) no-repeat;
+  background:linear-gradient(90deg, var(--black), transparent 70%), url(../images/Ảnh_1.jpg) no-repeat;
   background-position: center;
   background-size: 100%;
 }
@@ -19,7 +19,7 @@
 
 .content-text h3{
   font-size: 6rem;
-  color:var(--black);
+  color:var(--main-color);
   font-family: 'Merienda One', cursive;
 }
 
@@ -27,7 +27,7 @@
   padding:1rem 0;
   line-height: 2;
   font-size: 1.6rem;
-  color:var(--black);
+  color:var(--white);
 }
 
 .connect-order{
